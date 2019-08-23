@@ -51,3 +51,5 @@ scut问题不大
 复赛成绩
 
 ![](https://github.com/zhangxiaoling/Text-matching/blob/master/%E5%A4%8D%E8%B5%9B.png)
+
+ps: 刚刚入门比赛的萌新嘻嘻，欢迎各位大佬提出建议，相互学习交流。目前是一个人卑微上分，欢迎大佬带我打比赛。
