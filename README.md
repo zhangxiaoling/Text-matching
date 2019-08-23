@@ -46,8 +46,8 @@ scut问题不大
 
 初赛成绩
 
-![https://github.com/zhangxiaoling/Text-matching/blob/master/%E5%88%9D%E8%B5%9B.png]
+![](https://github.com/zhangxiaoling/Text-matching/blob/master/%E5%88%9D%E8%B5%9B.png)
 
 复赛成绩
 
-![]
+![](https://github.com/zhangxiaoling/Text-matching/blob/master/%E5%A4%8D%E8%B5%9B.png)
